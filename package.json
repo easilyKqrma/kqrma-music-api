@@ -1,5 +1,5 @@
 {
-  "name": "kqrma",
+  "name": "kqrma-music-api",
   "version": "14.1.0",
   "description": "A simple Node.js based music extension/bot for Discord.js projects using YouTube.",
   "main": "index.js",
